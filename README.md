@@ -22,7 +22,7 @@ A simple Flutter online shopping app with core features such as browsing product
 ![Favorite Page](https://github.com/bappyBDN/Flatter_Project/blob/main/Flatter%20Image/Resetpass.jpg)
 
 ### 🏠 Home Page 1
-![Home Page](assets/home_page.png)
+![Home Page](https://github.com/bappyBDN/Flatter_Project/blob/main/Flatter%20Image/Home1.jpg)
 ### 🏠 Home Page 2
 ![Home Page](assets/home_page.png)
 
