@@ -32,3 +32,20 @@ A simple Flutter online shopping app with core features such as browsing product
 ![Favorite Page](https://github.com/bappyBDN/Flatter_Project/blob/main/Flatter%20Image/Favorit.jpg)
 ### 👤 User Page
 ![User Page](https://github.com/bappyBDN/Flatter_Project/blob/main/Flatter%20Image/UserInfo.jpg)
+
+## 🔧 Requirements
+
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code with Flutter plugin
+
+## 🧪 To Do / Improvements
+
+- Add cart functionality
+- Add product detail pages
+- Implement user authentication
+- Connect with Firebase or backend server
+
+## 👨‍💻 Author
+
+- Bappy Chandra Debnath – [ GitHub](https://github.com/bappyBDN)
