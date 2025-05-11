@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733885487017",
+    "project_id": "flatter-demo",
+    "storage_bucket": "flatter-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733885487017:android:868df4b03ed62b611e56b8",
+        "android_client_info": {
+          "package_name": "com.example.demoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3L9DuPbrEA_PkUehiKsrxWz85nvaxOkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
