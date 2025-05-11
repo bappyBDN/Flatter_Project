@@ -16,7 +16,7 @@ A simple Flutter online shopping app with core features such as browsing product
 ## 📱 Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/home_page.png)
+![Home Page](https://github.com/bappyBDN/Flatter_Project/blob/main/Flatter%20Image/CreatAcc.jpg)
 
 ### ❤️ Favorite Page
 ![Favorite Page](assets/favorite_page.png)
