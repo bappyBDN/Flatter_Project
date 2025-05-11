@@ -14,3 +14,12 @@ A simple Flutter online shopping app with core features such as browsing product
   See basic user information and provide options like logging out or editing profile (can be extended).
 
 ## 📱 Screenshots
+
+### 🏠 Home Page
+![Home Page](assets/home_page.png)
+
+### ❤️ Favorite Page
+![Favorite Page](assets/favorite_page.png)
+
+### 👤 User Page
+![User Page](assets/user_page.png)
